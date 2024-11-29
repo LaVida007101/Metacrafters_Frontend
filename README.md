@@ -5,13 +5,15 @@ Assessment Frontend Project for Metacrafters SCM-Starter
 The contract simulates a simple ATM functionality of depositing and withrawing account balances from a metamask wallet
 
 ### Confirming Entered Amount
-Before you can deposit or withdraw, the amount entered must be first confirmed by clicking on the the confirm button.
+Before you can deposit or withdraw, the amount entered must be first confirmed by clicking on the the confirm button. <br/>
+You cannot enter a negative amount. <br/>
 
 ### Deposit
 Allows depositing of the confirmed amount to the current balance.
 
 ### Withdraw
-Allows withrawal of the confirmed amount to the current balance.
+Allows withrawal of the confirmed amount to the current balance. <br/>
+You cannot withdraw an amount greater than your current balance.
 
 ## Getting Started
 ### Requirements
