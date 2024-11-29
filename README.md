@@ -15,13 +15,13 @@ Allows withrawal of the confirmed amount to the current balance.
 
 ## Getting Started
 ### Requirements
-Metamask plug in: Ensure you have Metamask extension installed the browser where your localhost is opened.
+Metamask plug in: Ensure you have the Metamask extension installed in the browser where your localhost is opened.
 
 ### Running the program
-Inside the project directory, in the terminal type: npm i
-type: npx hardhat node
-type: npx hardhat run --network localhost scripts/deploy.js
-type npm run dev to launch the front-end.
+Inside the project directory, in the terminal type: npm i <br/>
+type: npx hardhat node <br/>
+type: npx hardhat run --network localhost scripts/deploy.js <br/>
+type npm run dev to launch the front-end. <br/>
 After this, the project will be running on your localhost. Typically at http://localhost:3000/
 
 ## Authors
